@@ -1,0 +1,67 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 20px;
+    
+  }
+  .container1 {
+    max-width: 800px;
+    align-content: center;
+    font-size: larger;
+    color: #f4f4f9;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    background: rgb(22, 21, 21);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+ 
+
+  .contacts{
+    color: #cfc9c9;
+    font-size:x-small;
+    content-visibility:auto;
+    margin: 10px;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1, h2 {
+    color: #333;
+  }
+  
+  .profile-pic {
+    width: 150px;
+    border-radius: 50%;
+    margin: 10px;
+  }
+  
+  button {
+    display: block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+
+
+  
